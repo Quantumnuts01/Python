@@ -1,0 +1,16 @@
+efo 50.0 medium
+klw 19.22 medium
+and 19.65 hard
+and 0.53 hard
+Aa 23.08 easy
+aa 23.08 easy
+q 72.0 easy
+aa 23.08 easy
+q 0.0 easy
+ 23.08 easy
+q 23.08 easy
+[A 23.08 easy
+q 0.0 easy
+ 23.08 easy
+gg 23.08 easy
+GG 23.08 hard
